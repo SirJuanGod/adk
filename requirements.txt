@@ -1,0 +1,10 @@
+google-adk
+requests
+geopy
+osmnx==1.7.0
+networkx==3.1
+folium
+matplotlib
+python-dateutil
+shapely
+geopandas
